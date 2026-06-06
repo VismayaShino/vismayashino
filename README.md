@@ -1,7 +1,6 @@
 💫 About Me:
 
-Hi I am Vismaya! An upcoming AI Engineer
-🚀 Proficient in C++ and Java, crafting efficient and elegant code with passion.<br>💻 Good experience in HTML and CSS showcased through successful project development.<br>🌐 Enthusiastic about exploring and mastering new technologies.<br>🎨 Keen interest in graphic designing and blending creativity.<br>🔍 Constantly seeking opportunities to expand knowledge and skills.
+ 🚀 Proficient in C++ and Java, crafting efficient and elegant code with passion.<br>💻 Good experience in HTML and CSS showcased through successful project development.<br>🌐 Enthusiastic about exploring and mastering new technologies.<br>🎨 Keen interest in graphic designing and blending creativity.<br>🔍 Constantly seeking opportunities to expand knowledge and skills.
 
 
 🌐 Socials:
